@@ -34,6 +34,16 @@
 └── 📄 GuesserGameProject.java # Entry point to run the game
 
 
+💡 Concepts Used
+✅ Object-Oriented Programming
+
+✅ Scanner for user input
+
+✅ Conditional Logic using Nested if-else
+
+✅ Clean Console UI
+
+
 
 📸 Sample Output
 
