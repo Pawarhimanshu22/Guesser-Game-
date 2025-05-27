@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Console-App-✅-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Beginner--Friendly-🧠-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Language Badge" />
+  <img src="https://img.shields.io/badge/Console%20App-Running-brightgreen?style=for-the-badge&logo=terminal&logoColor=white" alt="Console App Badge" />
+  <img src="https://img.shields.io/badge/Beginners-Welcome-yellow?style=for-the-badge&logo=handshake&logoColor=black" alt="Beginner Friendly Badge" />
 </p>
+
 
 ---
 
