@@ -24,29 +24,23 @@
 
 ---
 
-💡 Concepts Used
-✅ Object-Oriented Programming
-
-✅ Scanner for user input
-
-✅ Conditional Logic using Nested if-else
-
-✅ Clean Console UI
+## 💡 Concepts Used
+- ✅ Object-Oriented Programming
+- ✅ Scanner for user input
+- ✅ Conditional Logic using Nested if-else
+- ✅ Clean Console UI
 
 
+## 📸 Sample Output
 
+- Welcome to the Guesser Game!
+- Guesser, please guess a number: 7
+- Player 1, please guess a number: 4
+- Player 2, please guess a number: 7
+- Player 3, please guess a number: 7
 
-
-📸 Sample Output
-
-Welcome to the Guesser Game!
-Guesser, please guess a number: 7
-Player 1, please guess a number: 4
-Player 2, please guess a number: 7
-Player 3, please guess a number: 7
-
---- Game Result ---
-Well done! Player 2 and Player 3 guessed correctly!
+- --- Game Result ---
+- Well done! Player 2 and Player 3 guessed correctly!
 
 
 
