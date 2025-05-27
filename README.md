@@ -39,14 +39,10 @@
 - Player 2, please guess a number: 7
 - Player 3, please guess a number: 7
 
-- --- Game Result ---
+ --- Game Result ---
 - Well done! Player 2 and Player 3 guessed correctly!
 
 
-
--
--
--
 
 
 ## 🧱 Project Structure
