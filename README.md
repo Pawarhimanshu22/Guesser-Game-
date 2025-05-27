@@ -24,16 +24,6 @@
 
 ---
 
-## 🧱 Project Structure
-
-```plaintext
-📦 MyProjectPackage
-├── 📄 Guesser.java           # Guesser inputs a number
-├── 📄 Player.java            # Each player inputs their guess
-├── 📄 Umpire.java            # Handles game logic and comparison
-└── 📄 GuesserGameProject.java # Entry point to run the game
-
-
 💡 Concepts Used
 ✅ Object-Oriented Programming
 
@@ -42,6 +32,8 @@
 ✅ Conditional Logic using Nested if-else
 
 ✅ Clean Console UI
+
+
 
 
 
@@ -55,3 +47,18 @@ Player 3, please guess a number: 7
 
 --- Game Result ---
 Well done! Player 2 and Player 3 guessed correctly!
+
+
+
+
+
+
+## 🧱 Project Structure
+
+```plaintext
+📦 MyProjectPackage
+├── 📄 Guesser.java           # Guesser inputs a number
+├── 📄 Player.java            # Each player inputs their guess
+├── 📄 Umpire.java            # Handles game logic and comparison
+└── 📄 GuesserGameProject.java # Entry point to run the game
+
